@@ -27,8 +27,8 @@ Here are some of the tools and languages I’ve been working with:
 
 ## 📈 GitHub Stats  
 
-![Beloiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Beloiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tudorbeloiu&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tudorbeloiu&layout=compact&theme=radical)  
 
 ---
 
